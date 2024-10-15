@@ -1,3 +1,13 @@
+# Repository Source
+This repository is forked from [Narrator](https://github.com/pw0rld/Narrator/tree/main).
+We made modifications to the following files to accommodate the functionalities required by ElephantDP:
+- Narrator/AppEnclave/common/crypto.*
+- Narrator/AppEnclave/common/attestation.*
+- Narrator/ServerEnclave/common/crypto.*
+- Narrator/ServerEnclave/common/attestation.*
+- Narrator/ServerEnclave/host/network/My_Server.*
+
+
 # Narrator: Secure and Practical State Continuity for Trusted Execution on Cloud
 Thank you for your interest in Narrator. This document will get you started with our prototype implementation. If you have any problems, we will do our best to resolve them as soon as possible. 
 Narrator is accepted by ACM CCS'22, see [list of accepted papers](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html) for more details. You can download the paper [here]().
